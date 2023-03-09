@@ -6,6 +6,6 @@
   "author": "MokkeMeguru <meguru.mokke@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "d3-color": "2"
+    "d3-color": "3"
   }
 }
